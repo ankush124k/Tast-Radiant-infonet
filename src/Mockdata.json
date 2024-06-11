@@ -1,0 +1,283 @@
+[
+    {
+        "id": 1,
+        "car_name": "Model S",
+        "car_brand": "Tesla",
+        "quantity":"10",
+        "specifications": {
+            "engine": "100 kWh",
+            "power": "396 miles",
+            "top_speed": "200 mph",
+            "acceleration": "0-60 mph in 1.99 seconds"
+        },
+        "price": "89990",
+        "image_url": "https://www.tesla.com/sites/default/files/modelsx-new/social/model-s-hero-social.jpg"
+    },
+    {
+        "id": 2,
+        "car_name": "Mustang Mach-E",
+        "car_brand": "Ford",
+        "quantity":"11",
+        "specifications": {
+            "engine": "88 kWh",
+            "power": "305 miles",
+            "top_speed": "180 mph",
+            "acceleration": "0-60 mph in 3.5 seconds"
+        },
+        "price": "43895",
+        "image_url": "http://wonderfulengineering.com/wp-content/uploads/2014/03/Ford-Images-16.jpg"
+    },
+    {
+        "id": 3,
+        "car_name": "Civic Type R",
+        "car_brand": "Honda",
+        "quantity":"10",
+        "specifications": {
+            "engine": "2.0L Turbocharged",
+            "power": "306 hp",
+            "top_speed": "169 mph",
+            "acceleration": "0-60 mph in 5.7 seconds"
+        },
+        "price": "37895",
+        "image_url": "https://www.vhv.rs/file/max/2/29825_honda-car-png.png"
+    },
+    {
+        "id": 4,
+        "car_name": "Camry",
+        "car_brand": "Toyota",
+        "quantity":"50",
+        "specifications": {
+            "engine": "3.5L V6",
+            "power": "301 hp",
+            "top_speed": "135 mph",
+            "acceleration": "0-60 mph in 5.8 seconds"
+        },
+        "price": "25045",
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.iVOa4UOMjMNEwKetQyvZwwHaFj&pid=Api&rs=1&c=1&qlt=95&h=180"
+    },
+    {
+        "id": 5,
+        "car_name": "A4",
+        "car_brand": "Audi",
+        "quantity":"0",
+        "specifications": {
+            "engine": "2.0L TFSI",
+            "power": "261 hp",
+            "top_speed": "130 mph",
+            "acceleration": "0-60 mph in 5.2 seconds"
+        },
+        "price": "39100",
+        "image_url": "https://storage.googleapis.com/gtspirit/uploads/2017/04/Audi-R8-V10-Audi-Sport-Edition-10.jpg"
+    },
+    {
+        "id": 6,
+        "car_name": "3 Series",
+        "car_brand": "BMW",
+        "quantity":"29",
+        "specifications": {
+            "engine": "2.0L TwinPower Turbo",
+            "power": "255 hp",
+            "top_speed": "155 mph",
+            "acceleration": "0-60 mph in 5.3 seconds"
+        },
+        "price": "41250",
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.QPwKcdTRCVtFkaHb8rZ3cgHaE7&pid=Api&rs=1&c=1&qlt=95&h=180"
+    },
+    {
+        "id": 7,
+        "car_name": "Altima",
+        "car_brand": "Nissan",
+        "quantity":"21",
+        "specifications": {
+            "engine": "2.5L 4-cylinder",
+            "power": "188 hp",
+            "top_speed": "130 mph",
+            "acceleration": "0-60 mph in 8.0 seconds"
+        },
+        "price": "24300",
+        "image_url": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2019/09/10-Of-The-Best-Nissan-Car-Models-On-The-Market-featured-image.jpg"
+    },
+    {
+        "id": 8,
+        "car_name": "Accord",
+        "car_brand": "Honda",
+        "quantity":"10",
+        "specifications": {
+            "engine": "1.5L Turbocharged",
+            "power": "192 hp",
+            "top_speed": "125 mph",
+            "acceleration": "0-60 mph in 7.2 seconds"
+        },
+        "price": "26120",
+        "image_url": "https://tse3.mm.bing.net/th?id=OIP.IdmKz5AOZLHJe4FVo8p63gHaEb&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 9,
+        "car_name": "Challenger",
+        "car_brand": "Dodge",
+        "quantity":"30",
+        "specifications": {
+            "engine": "6.2L V8",
+            "power": "717 hp",
+            "top_speed": "203 mph",
+            "acceleration": "0-60 mph in 3.6 seconds"
+        },
+        "price": "58995",
+        "image_url": "https://tse4.mm.bing.net/th?id=OIP.NVxvYEAHq_PBxicitz5tJgHaFj&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 10,
+        "car_name": "911 Carrera",
+        "car_brand": "Porsche",
+        "quantity":"34",
+        "specifications": {
+            "engine": "3.0L Twin-turbo",
+            "power": "379 hp",
+            "top_speed": "182 mph",
+            "acceleration": "0-60 mph in 4.0 seconds"
+        },
+        "price": "99200",
+        "image_url": "https://files.porsche.com/filestore/image/multimedia/none/992-c2-modelimage-sideshot/thumbwhite/542ec503-3d8d-11e9-80c4-005056bbdc38;sM;twebp/porsche-thumbwhite.webp"
+    },
+    {
+        "id": 11,
+        "car_name": "Corvette",
+        "car_brand": "Chevrolet",
+        "quantity":"60",
+        "specifications": {
+            "engine": "6.2L V8",
+            "power": "495 hp",
+            "top_speed": "194 mph",
+            "acceleration": "0-60 mph in 2.9 seconds"
+        },
+        "price": "60900",
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.a08OSvhiCax3H6HKop-hVAHaEo&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 12,
+        "car_name": "Mazda3",
+        "car_brand": "Mazda",
+        "quantity":"30",
+        "specifications": {
+            "engine": "2.5L Skyactiv-G",
+            "power": "186 hp",
+            "top_speed": "130 mph",
+            "acceleration": "0-60 mph in 7.0 seconds"
+        },
+        "price": "21500",
+        "image_url": "https://tse2.mm.bing.net/th?id=OIP.zJBsG92oq8fu7cMQrfWUbgHaE8&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 13,
+        "car_name": "Golf GTI",
+        "car_brand": "Volkswagen",
+        "quantity":"9",
+        "specifications": {
+            "engine": "2.0L Turbocharged",
+            "power": "228 hp",
+            "top_speed": "155 mph",
+            "acceleration": "0-60 mph in 5.6 seconds"
+        },
+        "price": "28695",
+        "image_url": "https://tse2.mm.bing.net/th?id=OIP.yrnRAb9F2-9dc_MsWpCjgwHaE8&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 14,
+        "car_name": "Impreza",
+        "car_brand": "Subaru",
+        "quantity":"11",
+        "specifications": {
+            "engine": "2.0L Boxer",
+            "power": "152 hp",
+            "top_speed": "122 mph",
+            "acceleration": "0-60 mph in 8.5 seconds"
+        },
+        "price": "18795",
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.ASFArNpyvqd5OWgItM53ggHaEo&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 15,
+        "car_name": "Chiron",
+        "car_brand": "Bugatti",
+        "quantity":"16",
+        "specifications": {
+            "engine": "8.0L Quad-turbo W16",
+            "power": "1500 hp",
+            "top_speed": "261 mph",
+            "acceleration": "0-60 mph in 2.4 seconds"
+        },
+        "price": "2998000",
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.4BlW4o_3GXv63y-XR_zjqQHaEK&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 16,
+        "car_name": "Range Rover",
+        "car_brand": "Land Rover",
+        "quantity":"19",
+        "specifications": {
+            "engine": "5.0L V8 Supercharged",
+            "power": "518 hp",
+            "top_speed": "155 mph",
+            "acceleration": "0-60 mph in 5.1 seconds"
+        },
+        "price": "92000",
+        "image_url": "https://tse4.mm.bing.net/th?id=OIP.8AY3sTItT18-zGgP71IHuAHaEK&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 17,
+        "car_name": "S-Class",
+        "car_brand": "Mercedes-Benz",
+        "quantity":"21",
+        "specifications": {
+            "engine": "3.0L Inline-6 Turbo",
+            "power": "429 hp",
+            "top_speed": "155 mph",
+            "acceleration": "0-60 mph in 4.8 seconds"
+        },
+        "price": "111100",
+        "image_url": "https://tse4.mm.bing.net/th?id=OIP.xY3PK2HCJYsMcLMFa4d73AAAAA&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 18,
+        "car_name": "Aventador",
+        "car_brand": "Lamborghini",
+        "quantity":"16",
+        "specifications": {
+            "engine": "6.5L V12",
+            "power": "730 hp",
+            "top_speed": "217 mph",
+            "acceleration": "0-60 mph in 2.9 seconds"
+        },
+        "price": "421321",
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.8Eg_CW8qomq2WYP6vTlchwHaEK&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 19,
+        "car_name": "i8",
+        "car_brand": "BMW",
+        "quantity":"6",
+        "specifications": {
+            "engine": "1.5L Turbocharged 3-cylinder",
+            "electric_motor": "11.6 kWh battery",
+            "power": "369 hp",
+            "top_speed": "155 mph",
+            "acceleration": "0-60 mph in 4.2 seconds"
+        },
+        "price": "147500",
+        "image_url": "https://tse4.mm.bing.net/th?id=OIP.PLVedlQlw-FyZNb2oBv7LQHaEo&pid=Api&P=0&h=180"
+    },
+    {
+        "id": 20,
+        "car_name": "911 Turbo S",
+        "car_brand": "Porsche",
+        "quantity":"7",
+        "specifications": {
+            "engine": "3.8L Twin-turbo",
+            "power": "640 hp",
+            "top_speed": "205 mph",
+            "acceleration": "0-60 mph in 2.6 seconds"
+        },
+        "price": "203500",
+        "image_url": "https://tse1.mm.bing.net/th?id=OIP.xqXx_cmooo8IcmQpVeZ8MAHaEZ&pid=Api&P=0&h=180"
+    }
+]
